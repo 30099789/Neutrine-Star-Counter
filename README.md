@@ -1,4 +1,4 @@
-# Neutrine-Star-Counter
+# Neutrino-Counter
 //Functional Requirements
 //The program must create an array of integers containing exactly 24 elements to represent the hours of the day.
 //The array must be populated with random integers ranging from 10 to 90.
